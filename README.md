@@ -55,6 +55,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
 
 
+<img width="1674" height="1039" alt="Screenshot 2025-11-05 112640" src="https://github.com/user-attachments/assets/091cd605-0f43-4376-b1ba-d0a3b7476c8a" />
 
 
 
@@ -115,8 +116,10 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+![WhatsApp Image 2025-11-05 at 11 31 57_e6925609](https://github.com/user-attachments/assets/3b7922d3-a70c-4cf8-b16b-548cbc8c1de2)
 
 CASE 2: LED OFF
+![WhatsApp Image 2025-11-05 at 11 31 57_c5fe98de](https://github.com/user-attachments/assets/280a5c87-7eba-4dda-a01b-635cbc3596fd)
 
 ---
 ### RESULT
